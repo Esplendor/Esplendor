@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-https://github.com/Esplendor/#github-stats
-
-https://github.com/Esplendor/#technologies
 
 <!--
 **Esplendor/Esplendor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
