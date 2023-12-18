@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Esplendor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Esplendor&show_icons=true&theme=dark)
+![Esplendor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Esplendor&show_icons=true&theme=onedark)
 
 <!--
 **Esplendor/Esplendor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
